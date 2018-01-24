@@ -1,0 +1,7 @@
+c:\users\ginge\source\repos\Lat3Table\Lat3Table\bin\Debug\Lat3Table.exe.config
+c:\users\ginge\source\repos\Lat3Table\Lat3Table\bin\Debug\Lat3Table.exe
+c:\users\ginge\source\repos\Lat3Table\Lat3Table\bin\Debug\Lat3Table.pdb
+c:\users\ginge\source\repos\Lat3Table\Lat3Table\obj\Debug\Lat3Table.csprojResolveAssemblyReference.cache
+c:\users\ginge\source\repos\Lat3Table\Lat3Table\obj\Debug\Lat3Table.csproj.CoreCompileInputs.cache
+c:\users\ginge\source\repos\Lat3Table\Lat3Table\obj\Debug\Lat3Table.exe
+c:\users\ginge\source\repos\Lat3Table\Lat3Table\obj\Debug\Lat3Table.pdb
